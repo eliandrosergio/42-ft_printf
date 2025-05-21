@@ -1,4 +1,4 @@
-# ft_printf
+# 42-ft_printf
 
 O projeto *ft_printf* é uma implementação personalizada da função `printf` da biblioteca padrão de C. A ideia é recriar a funcionalidade da `printf`, lidando com vários tipos de dados e formatadores de forma eficiente.
 
